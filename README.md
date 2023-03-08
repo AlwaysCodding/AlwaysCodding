@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, somos a Alwayscodding</h1>
-<h3 align="center">Startup que atua no Desenvolvimento Mobile e Desenvolvimento Web.</h3>
+<h3 align="center">Grupo de Estudos Voltado Para Adquirir Novos Conhecimentos em Tecnologias de Desenvolvimento Backend Fronend e Mobile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwayscodding&label=Profile%20views&color=0e75b6&style=flat" alt="alwayscodding" /> </p>
 
